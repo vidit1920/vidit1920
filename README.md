@@ -54,17 +54,17 @@ class Vidit:
 <div align="center">
 
 <a href="https://github.com/vidit1920/AuraFix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vidit1920&repo=AuraFix&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats-eight-flax.vercel.app/api/pin/?username=vidit1920&repo=AuraFix&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/vidit1920/GitRead">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vidit1920&repo=GitRead&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats-eight-flax.vercel.app/api/pin/?username=vidit1920&repo=GitRead&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 <br/>
 <a href="https://github.com/vidit1920/Autonomous-Debugger-for-java-program">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vidit1920&repo=Autonomous-Debugger-for-java-program&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats-eight-flax.vercel.app/api/pin/?username=vidit1920&repo=Autonomous-Debugger-for-java-program&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/vidit1920/Waste-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vidit1920&repo=Waste-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats-eight-flax.vercel.app/api/pin/?username=vidit1920&repo=Waste-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 </div>
@@ -75,8 +75,8 @@ class Vidit:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vidit1920&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidit1920&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="30%" />
+<img src="https://github-readme-stats-eight-flax.vercel.app/api?username=vidit1920&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="49%" />
+<img src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=vidit1920&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="30%" />
 
 </div>
 
